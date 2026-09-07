@@ -1,10 +1,8 @@
 PHP Outputs #1–#5
 Note
 
-I sincerely apologize for the late submission of my PHP Outputs #3–#5. After H4G, my laptop was damaged, which prevented me from continuing my work and fixing the project immediately. This caused a delay in completing and submitting my requirements.
+I sincerely apologize for the late submission of my PHP Outputs #3–#5. I was unable to complete and submit them on time because I was preparing for H4G. Unfortunately, after H4G, my laptop was damaged, and until now, I have not been able to have it fixed. Because of this, I was unable to continue working on my PHP outputs immediately, which caused further delay in my submission.
 
-I apologize for the delay and appreciate your understanding. Thank you.
+I apologize for the inconvenience and the late submission. I am doing my best to complete and submit all of my requirements despite the circumstances.
 
-Description
-
-This repository contains my completed PHP Outputs #1–#5, including form validation, multiple web pages, database integration, CRUD functionality, and MVC implementation.
+Thank you for your understanding and consideration.
